@@ -1,6 +1,6 @@
 theme: jekyll-theme-merlot
 safe: true
 project:
-name: <Sam Topp>
-tagline: <blank>
-github: <samtopp.github.io>
+  name: <Sam Topp>
+  tagline: <blank>
+  github: <samtopp.github.io>
