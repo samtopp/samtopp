@@ -8,4 +8,4 @@ This infographic breaks down 1249 students admitted for the 2016-2017 school yea
 ## Best Selling Craft Breweries in 2014
 This infographic shows the top ten craft breweries in the U.S. by sales volume in 2014. A craft brewery is defined as any brewery that produces less than six million barrels of beer per year and has less than 25 percent of the company owned by an alcohol industry member. Craft breweries use both traditional and innovative ingredients in their beers.
 
-![Craft Beer Sales in 2014](https://github.com/samtopp/samtopp.github.io/blob/master/CraftBeer2014.jpg)
+![Craft Beer Sales in 2014](https://github.com/samtopp/samtopp.github.io/blob/master/CraftBeer2014l.png)
