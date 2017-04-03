@@ -19,7 +19,4 @@ This timeline is a brief synopsis of the events leading up to the start of the 2
 ## 2016 Undergraduate Enrollment
 This chart shows the percentage of undergraduate enrollment by college for the class of 2020.
 
-
 ![2016 Undergraduate Enrollment](https://github.com/samtopp/samtopp.github.io/blob/master/2016UndergraduateEnrollment.png?raw=true)
-
-![dfgdfg](samtopp.github.io/2016UndergraduateEnrollment.png)
