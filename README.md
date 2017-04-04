@@ -29,7 +29,7 @@ This chart shows the number of craft breweries operating in the U.S. since 1979.
 ### Market Share of Craft Breweries, Imported Breweries and Macro Breweries in the U.S.
 The following charts show the market share in percents of craft breweries and macro breweries operating in the U.S. since 1979 as well as the market share of beer imported from international breweries. Popular imports include Guinness, Corona and Heineken. Macro breweries are defined as breweries that produce greater than six million barrels per year in the U.S. Craft breweries are defined as breweries that produce between two and six million barrels per year in the U.S.
 
-![Craft Market Share](https://github.com/samtopp/samtopp.github.io/blob/master/Market_Share_of_All_U.S._Craft_Breweries_Since_1979__chartbuilder.png?raw=true)
+![Craft Market Share](https://github.com/samtopp/samtopp.github.io/blob/master/Market_Share_of_All_U.S._Macro_Breweries_Since_1979_Craft_chartbuilder.png?raw=true)
 
 ![Imported Market Share](https://github.com/samtopp/samtopp.github.io/blob/master/Market_Share_of_All_Imported_Breweries_in_the_U.S._Since_1979_Imports_Craft_chartbuilder.png?raw=true)
 
