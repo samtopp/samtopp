@@ -20,3 +20,17 @@ This timeline is a brief synopsis of the events leading up to the start of the 2
 This chart shows the percentage of undergraduate enrollment by college for the class of 2020.
 
 ![2016 Undergraduate Enrollment](https://github.com/samtopp/samtopp.github.io/blob/master/2016UndergraduateEnrollment.png?raw=true)
+
+## Number of Craft Breweries in the U.S.
+This chart shows the number of craft breweries operating in the U.S. since 1979. The data was taken from the "Journal of Wine Economics: Craft Beer in the U.S."
+
+![Craft Brewery Numbers](https://github.com/samtopp/samtopp.github.io/blob/master/Number_of_U.S._Craft_Breweries_Since_1979_Craft_chartbuilder.png?raw=true)
+
+### Market Share of Craft Breweries, Imported Breweries and Macro Breweries in the U.S.
+The following charts show the market share in percents of craft breweries and macro breweries operating in the U.S. since 1979 as well as the market share of beer imported from international breweries. Popular imports include Guinness, Corona and Heineken. Macro breweries are defined as breweries that produce greater than six million barrels per year in the U.S. Craft breweries are defined as breweries that produce between two and six million barrels per year in the U.S.
+
+![Craft Market Share](https://github.com/samtopp/samtopp.github.io/blob/master/Market_Share_of_All_U.S._Craft_Breweries_Since_1979__chartbuilder.png?raw=true)
+
+![Imported Market Share](https://github.com/samtopp/samtopp.github.io/blob/master/Market_Share_of_All_Imported_Breweries_in_the_U.S._Since_1979_Imports_Craft_chartbuilder.png?raw=true)
+
+![Macro Market Share](https://github.com/samtopp/samtopp.github.io/blob/master/Market_Share_of_All_U.S._Macro_Breweries_Since_1979_Macro__Imports_Craft_chartbuilder.png?raw=true)
