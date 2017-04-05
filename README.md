@@ -18,7 +18,7 @@ This chart shows the percentage of undergraduate enrollment by college for the c
 ![2016 Undergraduate Enrollment](https://github.com/samtopp/samtopp.github.io/blob/master/2016UndergraduateEnrollment.png?raw=true)
 
 ## Number of Craft Breweries in the U.S.
-This chart shows the number of craft breweries operating in the U.S. since 1979. The data was taken from the "Journal of Wine Economics: Craft Beer in the U.S."
+This chart shows the number of craft breweries operating in the U.S. since 1979. Beginning with only two breweries, craft breweries grew to 2,347 nationwide after a brief slump from 1999 to 2007. By contrast, while there were 42 macro-breweries (more than six million barrels per year) in 1979, only 19 remained in 2012 after consolidation or bankruptcy.
 
 ![Craft Brewery Numbers](https://github.com/samtopp/samtopp.github.io/blob/master/Number_of_U.S._Craft_Breweries_Since_1979_Craft_chartbuilder.png?raw=true)
 
