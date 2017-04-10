@@ -10,7 +10,7 @@ This infographic shows the top ten craft breweries in the U.S. by sales volume i
 ## 2016 Olympics Opening Timeline
 This timeline is a brief synopsis of the events leading up to the start of the 2016 Summer Olympics in Rio de Janeiro.
 
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1vkjYy1Z6b0h_9yt6N12J7vb1qGgX9vXuzoL5wN84JIk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1vkjYy1Z6b0h_9yt6N12J7vb1qGgX9vXuzoL5wN84JIk&font=Default&lang=en&initial_zoom=2&height=650' width='739' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## 2016 Undergraduate Enrollment
 This chart shows the percentage of undergraduate enrollment by college for the class of 2020.
