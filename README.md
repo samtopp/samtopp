@@ -30,3 +30,8 @@ The following charts show the market share in percents of craft breweries and ma
 ![Imported Market Share](https://github.com/samtopp/samtopp.github.io/blob/master/Market_Share_of_All_Imported_Breweries_in_the_U.S._Since_1979_Imports_Craft_chartbuilder.png?raw=true)
 
 ![Macro Market Share](https://github.com/samtopp/samtopp.github.io/blob/master/Market_Share_of_All_U.S._Macro_Breweries_Since_1979_Macro__Imports_Craft_chartbuilder.png?raw=true)
+
+## Butterfly Data
+This map shows data on different species of butterflies in Central America.
+
+<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col12+from+1N-8CFX3Q52SZWq-0YGlAERCf8BrffGp36DqcDPhN&amp;viz=MAP&amp;h=false&amp;lat=11.951470484813356&amp;lng=-85.24506242187505&amp;t=1&amp;z=9&amp;l=col12&amp;y=2&amp;tmplt=2&amp;hml=TWO_COL_LAT_LNG"></iframe>
