@@ -7,15 +7,10 @@ This infographic shows the top ten craft breweries in the U.S. by sales volume i
 
 ![Craft Beer Sales in 2014](https://github.com/samtopp/samtopp.github.io/blob/master/CraftBeer2014l.png?raw=true)
 
-## 2016 Olympics Opening Timeline
-This timeline is a brief synopsis of the events leading up to the start of the 2016 Summer Olympics in Rio de Janeiro.
+## D.G. Yuenglin & Son Timeline
+This timeline is a brief history of Yuengling, America's oldest brewery. Officially founded in 1929, Yuengling has grown into the largest craft brewery in the United States.
 
-<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1vkjYy1Z6b0h_9yt6N12J7vb1qGgX9vXuzoL5wN84JIk&font=Default&lang=en&initial_zoom=2&height=650' width='739' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
-
-## 2016 Undergraduate Enrollment
-This chart shows the percentage of undergraduate enrollment by college for the class of 2020.
-
-![2016 Undergraduate Enrollment](https://github.com/samtopp/samtopp.github.io/blob/master/2016UndergraduateEnrollment.png?raw=true)
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1KrF-PaEQwVHKtD66vu31lsRGxP8qE0k6PsO6oHOY8NM&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## Number of Craft Breweries in the U.S.
 This chart shows the number of craft breweries operating in the U.S. since 1979. Beginning with only two breweries, craft breweries grew to 2,347 nationwide after a brief slump from 1999 to 2007. By contrast, while there were 42 macro-breweries (more than six million barrels per year) in 1979, only 19 remained in 2012 after consolidation or bankruptcy.
