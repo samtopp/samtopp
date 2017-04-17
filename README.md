@@ -8,7 +8,7 @@ This infographic shows the top ten craft breweries in the U.S. by sales volume i
 ![Craft Beer Sales in 2014](https://github.com/samtopp/samtopp.github.io/blob/master/CraftBeer2014l.png?raw=true)
 
 ## D.G. Yuengling & Son Timeline
-This timeline is a brief history of Yuengling, America's oldest brewery. Officially founded in 1929, Yuengling has grown into the largest craft brewery in the United States.
+This timeline is a brief history of Yuengling, America's oldest brewery. Officially founded in 1829, Yuengling has grown into the largest craft brewery in the United States.
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1KrF-PaEQwVHKtD66vu31lsRGxP8qE0k6PsO6oHOY8NM&font=Default&lang=en&initial_zoom=2&height=750' width='739' height='850' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
