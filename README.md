@@ -34,6 +34,6 @@ This map shows data on different species of butterflies in Central America.
 ## Popular Names by State
 This map shows the most popular state names from 1910 to 2012. The map can be filtered by the range of years and by gender.
 [State names by year](https://public.tableau.com/views/J24PracticeTableau/Dashboard1?:embed=y&:display_count=yes)
-[trial](https://github.com/samtopp/samtopp.github.io/blob/master/Tableau_Practice)
+
 
 
