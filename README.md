@@ -31,10 +31,6 @@ This map shows the highest rated beer by state and the location of the brewery t
 
 <iframe width="739" height="739" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1UJlCSKi2HvknUsdsFkS68Lkit1HeeOx4t8unyCOZ&amp;viz=MAP&amp;h=false&amp;lat=57.11213865808627&amp;lng=-95.11727862031262&amp;t=1&amp;z=4&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
 
-## Popular Names by State
-This map shows the most popular state names from 1910 to 2012. The map can be filtered by the range of years and by gender.
-[State names by year](https://public.tableau.com/views/J24PracticeTableau/Dashboard1?:embed=y&:display_count=yes)
-
 ## Canned Craft Beer ABV
 This visualization shows the average ABV of different canned beers per city and how many different types are produced. Ranging from 3.5 to 8.3 percent, a higher ABV (alcohol blood volume) can bring more flavor and bite to a beverage.
 <md>
