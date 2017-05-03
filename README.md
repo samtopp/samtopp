@@ -1,8 +1,8 @@
 # Welcome to my page!
 My name is Sam Topp. I'm a psychology and journalism with writing double major at Lehigh University. This site is a compilation of data journalism displays made during my Visual Communications class. I'm hosted with Github Pages
 
+## Comic Strip
 ![Comic](https://github.com/samtopp/samtopp.github.io/blob/master/Sam's%20Comic.png?raw=true)
-
 
 ## Best Selling Craft Breweries in 2014
 This infographic shows the top ten craft breweries in the U.S. by sales volume in 2014. A craft brewery is defined as any brewery that produces less than six million barrels of beer per year and has less than 25 percent of the company owned by an alcohol industry member. Craft breweries use both traditional and innovative ingredients in their beers.
