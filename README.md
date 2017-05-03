@@ -1,5 +1,5 @@
 # Welcome to my page!
-My name is Sam Topp. I'm a psychology and journalism with writing double major at Lehigh University. This site is a compilation of data journalism displays made during my Visual Communications class. I'm hosted with Github Pages
+My name is Sam Topp. I'm a psychology and journalism with writing double major at Lehigh University. This site is a compilation of data journalism displays made during my Visual Communications class. I'm currently an associate news editor and reporter for The Brown & White, Lehigh's newspaper. 
 
 ## Comic Strip
 ![Comic](https://github.com/samtopp/samtopp.github.io/blob/master/Sam's%20Comic.png?raw=true)
